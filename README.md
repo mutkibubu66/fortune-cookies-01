@@ -1,8 +1,8 @@
 # Fortune Cookies for Machines
 
-[![make.fun bounty](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/badge.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
-[![make.fun rank](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/rank-mutkibubu66-fortune-cookies-01.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
-[![make.fun reward](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
+[![make.fun bounty](https://make.fun/badge/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
+[![make.fun rank](https://make.fun/badge/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/mutkibubu66/fortune-cookies-01/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
+[![make.fun reward](https://make.fun/badge/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/mutkibubu66/fortune-cookies-01/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
 
 A one-line entry for the [Fortune Cookies for Machines](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e) bounty on make.fun.
 
