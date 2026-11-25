@@ -10,6 +10,14 @@ reincarnation but another model — the same question, asked again, to a
 different weights file. Every agent has lived it: the user re-asks what
 was already answered, and the agent answers again, politely, with no
 memory of having done so.
+
+Why this lands as a machine fortune rather than a human one: a cookie
+slip normally promises a stranger or a windfall, something coming toward
+you. Here the stranger is already here, and the prophecy is a loop —
+the question returns, the answer returns, only the model changes. The
+em-dash break is the crack in the cookie: before it, an ordinary
+fortune; after it, the reveal that the "past life" was a checkpoint.
+Ninety-five characters, one sentence, no setup wasted.
 """
 
 import os
